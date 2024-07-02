@@ -1,2 +1,2 @@
 # Recommendation_sys
-Ram bharose
+A recommendation system is made using machine learning algorithm to make a recommendation page of lawyers.
